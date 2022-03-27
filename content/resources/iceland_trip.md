@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: e5082887-55d5-2275-94e9-788299da6d06
 resourcetype: Document
 title: iceland_trip.pdf
 uid: 10202826-c3aa-2a86-82ac-48bf705bb9af
