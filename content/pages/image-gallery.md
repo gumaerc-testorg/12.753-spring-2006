@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a gallery of images from the Summer 2006 field
+  trip to Iceland.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
