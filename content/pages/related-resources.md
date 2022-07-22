@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of activities for a field trip to
+  Iceland, and a detailed trip guide.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: e5082887-55d5-2275-94e9-788299da6d06
 ---
 
-Detailed Iceland Trip Guide ([PDF]({{< baseurl >}}/resources/iceland_trip))
+Detailed Iceland Trip Guide ({{% resource_link 10202826-c3aa-2a86-82ac-48bf705bb9af "PDF" %}})
 
 Meet at Logan Airport, Icelandair ticket counter @ 7:00 PM  
 Depart BOS 9:30 PM Icelandair flight

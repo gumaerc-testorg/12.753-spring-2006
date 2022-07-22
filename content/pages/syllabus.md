@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on the seminar topic, organizers,
+  meeting times, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9d7692ca-7b63-54b6-354c-898830e2c2cb
 ---
