@@ -46,8 +46,10 @@
     "website": "12-753-geodynamics-seminar-spring-2006"
   },
   "learning_resource_types": [
-    "Image Gallery"
+    "Image Gallery",
+    "Projects"
   ],
-  "site_uid": "3165ab19-9fff-4f53-bef0-7089f64e8b10",
+  "site_uid": "4f786ed7-fc12-4e95-bfff-20614ff18f6b",
+  "site_short_id": "12.753-spring-2006",
   "title": "Course Metadata"
 }
