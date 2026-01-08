@@ -8,7 +8,7 @@ title: Image Gallery
 uid: c3d972e9-df6f-b026-6b2b-4704032328e4
 ---
 
-More pictures from this trip are available on {{% resource_link "b4caf699-2221-4878-a4bc-4a650b702255" "the Woods Hole Oceanographic Institution site" %}}.
+More pictures from this trip are available on [the Woods Hole Oceanographic Institution site](https://www.whoi.edu/).
 {{< image-gallery id="c3d972e9-df6f-b026-6b2b-4704032328e4_nanogallery2" baseUrl="/courses/12-753-geodynamics-seminar-spring-2006/" >}}
 {{< image-gallery-item href="d096c8b24ab9818463cfb2950115aac5_2.jpg" data-ngdesc="Two students having a discussion." text="Two students having a discussion." >}}
 {{< image-gallery-item href="675c6a87180c18faa52f9e1754cfdda6_3.jpg" data-ngdesc="Group of students hiking along a boardwalk." text="Group of students hiking along a boardwalk." >}}
